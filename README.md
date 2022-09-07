@@ -47,3 +47,5 @@ For more details of this domain adaptation approach,  please refer to the follow
   pages={1-12},  
   doi={10.1109/TNNLS.2022.3151683}  
   }
+  
+  If you have any questions regarding the Pytorch implementation, please contact Lisheng Wen via the email wenlisheng992021@163.com.
