@@ -30,8 +30,8 @@ The folder structure required (e.g OfficeHome)
 ##### How to run
 
 ```bash
-python  main_for_UDA.py --dataset officehome --source Product   --target Clipart   --phase pretrain --gpu 0 --start_update_step 2000 --update_interval 1000 --steps 70000 --message "JOINT" --alpha_div 0.5 --beta_div 0 --lambda_div 0.1 --patience 10
-python main_for_UDA.py --dataset officehome --source Product   --target Clipart   --phase train --gpu 0 --start_update_step 2000 --update_interval 1000 --steps 70000 --message "JOINT" --alpha_div 0.5 --beta_div 0 --lambda_div 0.1 
+python  demo.py --dataset officehome --source Product   --target Clipart   --phase pretrain --gpu 0 --start_update_step 2000 --update_interval 1000 --steps 70000 --message "JOINT" --alpha_div 0.5 --beta_div 0 --lambda_div 0.1 --patience 10
+python demo.py --dataset officehome --source Product   --target Clipart   --phase train --gpu 0 --start_update_step 2000 --update_interval 1000 --steps 70000 --message "JOINT" --alpha_div 0.5 --beta_div 0 --lambda_div 0.1 
 ```
 
 
