@@ -1,6 +1,6 @@
 # Domain Neural Adaptation (DNA)
 
-This repository contains a paper with supplementary material for the deep domain adaptation approach DNA, and and a pytorch implementation of the DNA approach.
+This repository contains a paper with supplementary material for the deep domain adaptation approach DNA, and a pytorch implementation of the DNA approach.
 
 In a nutshell, DNA solves the joint distribution mismatch problem in deep domain adaptation for large scale image recognition. To this end, it exploits a Convolutional Neural Network (CNN) to match the source and target joint distributions in the network representation space under the Relative Chi-Square (RCS) divergence. The following figure illustrates this deep joint distribution matching idea.   
 
