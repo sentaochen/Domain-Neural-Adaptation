@@ -15,7 +15,7 @@ In a nutshell, DNA solves the joint distribution mismatch problem in deep domain
 #### Dataset folder
 The folder structure required (e.g OfficeHome)
 - data
-  - OfficeHome
+  - OfficeHome (https://www.hemanthdv.org/officeHomeDataset.html)
     - list
       - Art.txt
       - Clipart.txt
